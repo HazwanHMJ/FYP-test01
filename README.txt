@@ -1,2 +1,2 @@
-Olla~ 
-It's me..
+aloha~ 
+It's you..
